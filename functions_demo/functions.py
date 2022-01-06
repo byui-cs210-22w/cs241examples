@@ -142,7 +142,7 @@ if __name__ == '__main__':
     #random.seed() # Use time of day (default)
     #main(['favorite_ice_creams',])
     #main(['print_negativity',])
-    #main(['cowspeak_with_defaults',])
+    main(['cowspeak_with_defaults',])
     #main(['favorite_number_with_return',])
     #main(['common_unary_math_return_multiple',])
     pass
